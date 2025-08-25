@@ -43,3 +43,7 @@ Source folder: c:\Intune
 Setup file: remotehelpinstaller.exe
 Output folder: c:\Intune\Output
 Catalog folder: N
+setup.exe /configure configuration-Office365-x64.xml
+setup.exe /uninstall configuration-Office365-x64.xml
+
+
