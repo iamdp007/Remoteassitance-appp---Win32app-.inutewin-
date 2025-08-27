@@ -1,4 +1,4 @@
-# Remoteassitance-appp---Win32app-.inutewin-
+# Remoteassitance-app---Win32app-.inutewin-
 Intune-App-Packages/
 C:\Windows\system32>cd  c:\intune
 
